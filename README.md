@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mussinady Abubacar</h1>
-<h3 align="center">A passionate software developer and full-stack developer and i love building things with technology 🧑‍💻</h3>
+<h3 align="center">A passionate with technology, software developer, full-stack developer and i love building things with technology 🧑‍💻</h3>
 
 - 🔭 I’m currently working on [my personal youtube channel](https://youtube.com/@abubacar_dev)
 
