@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
+#
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://twitter.com/@abubacar_dev"
@@ -52,6 +54,8 @@
     />
   </a>
 </div>
+
+#
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
@@ -164,7 +168,7 @@
   />
 </div>
 
-###
+#
 
 <div align="center">
 <img 
