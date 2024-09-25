@@ -175,14 +175,14 @@
     align="center"
     height="180"
     max-width="60%"
-    src="https://github-readme-stats.vercel.app/api?username=mussinady-abubacar&show_icons=true&theme=tokyonight&locale=en&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=abubacar-dev&show_icons=true&theme=tokyonight&locale=en&rank_icon=github"
     alt="mussinady-abubacar"
   />
   <img 
     align="center"
     height="180"
     max-width="60%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mussinady-abubacar&show_icons=true&theme=tokyonight&locale=en&rank_icon=github&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abubacar-dev&show_icons=true&theme=tokyonight&locale=en&rank_icon=github&layout=compact"
     alt="mussinady-abubacar"
   />
 </div>
